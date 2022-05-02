@@ -1,3 +1,4 @@
+import useCotizador from "../hooks/useCotizador";
 import Formulario from "./Formulario";
 
 const AppSeguro = () => {
